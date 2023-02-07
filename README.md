@@ -18,6 +18,25 @@ Data sources available at sources folder in this repository. We will need to use
 
 ## Results
 
-The...
+The following chart will provide us an example of normal distribution, by showing the total of finishers with the corresponding chiptime. We can observe the “bell curve” of the chart, which suggests that despite finishing through different years, with different contexts, people have a similar chiptime. The data near the mean are more frequent in occurrence than data far from the mean which will result in this curve.
 
-![image](image here)
+![image](https://raw.githubusercontent.com/nmelgar/marathons_data_viz/main/result_charts/chiptime_number%20of%20finishers.png)
+
+<hr>
+
+This table shows that both women and men have a stronger physical condition when they are over 18 years old, once they get to the 36 years old, men lose a little amount of that condition,but women lose a significant amount, resulting in finishing the marathons in a greater amount ofminutes. Both women and men lose a significant amount of physical strength once they areolder than 50 years old.
+
+![image](https://raw.githubusercontent.com/nmelgar/marathons_data_viz/main/result_charts/chiptime_by_gender_and_age.png)
+
+<hr>
+
+There have been many Marathon runners in the US, but not at all of them have finished the challenge. Let’s look at how many of them finished the New York marathon by State in the last few years. Washington and Wisconsin have the most finishers, with 214 and 203, Texas and other states are behind them, but there are other states like Mississippi and Maine that don’t appear in the map yet.
+
+![image](https://raw.githubusercontent.com/nmelgar/marathons_data_viz/main/result_charts/finishers_by_state_with%20totals.png)
+
+<hr>
+
+This chart will show that since 1995 to 2010, the average chip time of the NYC marathon is lower for men than for women, except for 1997 where the average chip time for women was lower than for men.
+
+![image](https://raw.githubusercontent.com/nmelgar/marathons_data_viz/main/result_charts/chiptime_year_gender.png)
+
